@@ -1,0 +1,91 @@
+/* CSS Document */
+#head{
+	text-align: center;
+	color: pink;
+	display: inline;
+	font-size: 40px;
+	
+}
+#head input {
+	border:thick solid pink;
+}
+#han{
+	
+	float: right;
+	
+}
+#ov{text-align: center}
+
+.grid-container-head {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 10px;
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  padding: 10px;
+}
+.grid-item {
+  
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
+.grid-container-do {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  padding: 10px;
+}
+	#urge {
+	
+}
+#hjelp  {
+  position: absolute;
+  margin-top: 250px ;
+  right: 0;
+}
+
+#katt {
+
+
+}
+#rek1{
+	position: absolute;
+  margin-top: 250px ;
+  right: 0;
+}
+#hjulp{
+	position: absolute;
+  margin-top: 530px ;
+  right: 0;
+}
+
+#Spes1{
+	
+	margin-right: 800px;
+}
+#rek2{
+	margin-left: 210px;
+}
+#duut1{
+       margin-left: 200px;
+}
+#bon{
+	 background-color:pink;
+	margin-bottom:-20px;
+}
+#rek3{
+margin-left: 180px;	
+}
+#jh{
+	float: right;
+}
+#bon2{
+	 background-color:pink;
+	position: absolute;
+  margin-top: 500px ;
+  left: 0;
+	padding-right: 1200px;
+
+}
